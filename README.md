@@ -1,2 +1,3 @@
 # skull_stripping
-skull stripping brain MRI image
+
+you need install FSL in ubuntu before  `pip install nipype`
